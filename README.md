@@ -79,3 +79,21 @@ The Excel workbook contains four sheets, each focused on different aspects of th
   - **Header Font:** Comics Sans MS, 12pt, blue color.
   - **Borders:** Double border around the header; single border around all other cells.
   - **Cell Background:** White with no extra borders or lines outside the table.
+  - 
+  ### 4. `Number of Trades Exchanged`
+
+- **Description:** This sheet analyzes the distribution of the number of trades across regions and calculates specific probabilities.
+- **Contents:**
+  - **Region:** Country or confederation.
+  - **Number of Trades:** Count of trades per region.
+- **Tasks:**
+  - **Contingency Table:** Create a table to show the number of trades per region.
+  - **Marginal Distributions:** Add marginal distributions for both regions and trade counts, with a grand total in the bottom-right corner.
+  - **Probability Calculations:**
+    - **UK Probability:** Calculate the probability that a randomly chosen trade was executed exactly 7 times in the UK.
+    - **Asian Probability:** Calculate the probability that a randomly chosen trade was executed in any Asian state with a quantity not exceeding 8 units.
+    - **Add Results:** Place these calculations in columns starting from column M.
+- **Styling:**
+  - **Header Font:** Comics Sans MS, 12pt, blue color.
+  - **Borders:** Double border around the header; single border around all other cells.
+  - **Cell Background:** White with no extra borders or lines outside the table.
