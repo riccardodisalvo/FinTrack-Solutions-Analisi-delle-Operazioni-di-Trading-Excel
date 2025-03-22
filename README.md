@@ -31,17 +31,6 @@ The Excel workbook contains four sheets, each focused on different aspects of th
   - **Buy Price:** Price per share at purchase.
   - **Date Sold:** Date of trade completion in DD/MM/YY format.
   - **Sell Price:** Price per share at sale.
-- **Tasks:**
-  - Format the dates in `Date Added` and `Date Sold` columns to DD/MM/YY.
-  - **Add the following columns:**
-    - **Duration:** Calculate the number of days between `Date Added` and `Date Sold`.
-    - **Profit:** Calculate the profit (or loss) from each trade. Use the formula:
-      ```
-      Profit = (Sell Price - Buy Price) * Quantity
-      ```
-    - **Format:** Ensure that the `Profit` column is displayed as USD currency with 5 decimal places.
-  - **Visualization:** Create a bar chart showing the frequency of different durations of trades.
-  - **Commentary:** Add a text box below the bar chart to comment on the distribution of trade durations and discuss whether it follows a normal distribution.
 
 - **Styling:**
   - **Header Font:** Comics Sans MS, 12pt, blue color.
@@ -75,6 +64,18 @@ The Excel workbook contains four sheets, each focused on different aspects of th
   - **Profit Calculation:** Ensure that profit values are displayed in USD with 5 decimal places.
   - **Chart:** Create a bar chart to show the frequency distribution of trade durations.
   - **Commentary:** Add a text box to explain the chart and assess whether the duration of trades follows a normal distribution.
+  - - **Tasks:**
+  - Format the dates in `Date Added` and `Date Sold` columns to DD/MM/YY.
+  - **Add the following columns:**
+    - **Duration:** Calculate the number of days between `Date Added` and `Date Sold`.
+    - **Profit:** Calculate the profit from each trade. Use the formula:
+      ```
+      Profit = (Sell Price - Buy Price) * Quantity
+      ```
+    - **Format:** Ensure that the `Profit` column is displayed as USD currency with 5 decimal places.
+  - **Visualization:** Create a bar chart showing the frequency of different durations of trades.
+  - **Commentary:** Add a text box below the bar chart to comment on the distribution of trade durations and discuss whether it follows a normal distribution.
+  - 
 - **Styling:**
   - **Header Font:** Comics Sans MS, 12pt, blue color.
   - **Borders:** Double border around the header; single border around all other cells.
@@ -90,9 +91,8 @@ The Excel workbook contains four sheets, each focused on different aspects of th
   - **Contingency Table:** Create a table to show the number of trades per region.
   - **Marginal Distributions:** Add marginal distributions for both regions and trade counts, with a grand total in the bottom-right corner.
   - **Probability Calculations:**
-    - **UK Probability:** Calculate the probability that a randomly chosen trade was executed exactly 7 times in the UK.
-    - **Asian Probability:** Calculate the probability that a randomly chosen trade was executed in any Asian state with a quantity not exceeding 8 units.
-    - **Add Results:** Place these calculations in columns starting from column M.
+    - **UK Probability:** Calculate the probability that a randomly chosen trade was executed in any Asian state with a quantity = 1 units.
+    - **Asian Probability:** Calculate the probability that a randomly chosen trade was executed in any Asian state with a quantity <= 8 units.
 - **Styling:**
   - **Header Font:** Comics Sans MS, 12pt, blue color.
   - **Borders:** Double border around the header; single border around all other cells.
