@@ -26,7 +26,7 @@ Il dataset rappresenta le transazioni finanziarie registrate nel trading di azio
 - Attività Richieste
 Il foglio di calcolo è stato riorganizzato in quattro schede principali, ciascuna con uno stile e una struttura specifica:
 
-- Scheda 1: "My Trades"
+- Scheda 1: ***"My Trades"***
   - **Stile:** Intestazione con carattere Comic Sans MS (12pt, colore blu) e bordo doppio. Celle riquadrate con bordo nero sottile.
   **Contenuto:** Visualizzazione delle transazioni con formattazione coerente e personalizzata.
 - Scheda 2: "Stock Exchanges"
