@@ -28,16 +28,16 @@ Il foglio di calcolo è stato riorganizzato in quattro schede principali, ciascu
 
 - Scheda 1: ***"My Trades"***
   - **Stile:** Intestazione con carattere Comic Sans MS (12pt, colore blu) e bordo doppio. Celle riquadrate con bordo nero sottile.
-  **Contenuto:** Visualizzazione delle transazioni con formattazione coerente e personalizzata.
-- Scheda 2: "Stock Exchanges"
-  **Stile:** Intestazione Comic Sans MS (12pt, colore blu) con bordo doppio.
-  **Contenuto:** Pivot table che raggruppa i mercati per regione e numero di azioni scambiate. Colonna aggiuntiva per il calcolo della tassazione.
-- Scheda 3: "Profit Insights"
-  **Stile:** Intestazione Comic Sans MS (12pt, colore blu) con bordo doppio.
-  **Contenuto:** Analisi del profitto con riferimento ai TradeID, durata del possesso delle azioni, profitto generato e istogramma.
-- Scheda 4: "Number of Trades Exchanged"
-  **Stile:** Intestazione Comic Sans MS (12pt, colore blu).
-  **Contenuto:** Tabella di contingenza per la distribuzione del numero di trade per regione e calcolo delle probabilità associate a eventi specifici.
+  - **Contenuto:** Visualizzazione delle transazioni con formattazione coerente e personalizzata.
+- Scheda 2: ***"Stock Exchanges"***
+  - **Stile:** Intestazione Comic Sans MS (12pt, colore blu) con bordo doppio.
+  - **Contenuto:** Pivot table che raggruppa i mercati per regione e numero di azioni scambiate. Colonna aggiuntiva per il calcolo della tassazione.
+- Scheda 3: ***"Profit Insights"***
+  - **Stile:** Intestazione Comic Sans MS (12pt, colore blu) con bordo doppio.
+  - **Contenuto:** Analisi del profitto con riferimento ai TradeID, durata del possesso delle azioni, profitto generato e istogramma.
+- Scheda 4: ***"Number of Trades Exchanged"***
+  - **Stile:** Intestazione Comic Sans MS (12pt, colore blu).
+  - **Contenuto:** Tabella di contingenza per la distribuzione del numero di trade per regione e calcolo delle probabilità associate a eventi specifici.
 
 # Conclusione
 Questo progetto trasforma i dati finanziari in un potente strumento decisionale per FinTrack Solutions. Grazie a una struttura di facile lettura e a funzioni avanzate come tabelle pivot, analisi del profitto e distribuzioni probabilistiche, il cliente potrà monitorare le sue performance finanziarie e ottimizzare le sue operazioni di trading in modo efficace e strategico.
