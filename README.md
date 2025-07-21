@@ -1,18 +1,20 @@
-# Descrizione del Progetto
+# Analisi di operazioni di trading
+
+## Descrizione del Progetto
 
 Questo progetto è stato sviluppato per FinTrack Solutions, un'azienda che offre strumenti avanzati per il monitoraggio e l'analisi delle performance finanziarie. L'obiettivo principale è trasformare un semplice foglio di calcolo in uno strumento di analisi dinamico e visivamente efficace, permettendo di ottenere insights rilevanti sulle operazioni di trading di Bob, il nostro cliente principale.
 
-# Obiettivo del Progetto
+## Obiettivo del Progetto
 
 Il progetto mira a migliorare e ottimizzare il foglio di calcolo esistente, che traccia le operazioni finanziarie svolte da Bob dal 1° gennaio 2021. L'obiettivo è fornire un'analisi completa delle operazioni di trading, consentendo di prendere decisioni strategiche basate su dati accuratamente strutturati.
 
-#  Motivazione
+##  Motivazione
 
 Miglioramento della gestione e analisi delle operazioni di trading.
 Implementazione di strumenti di visualizzazione interattivi che migliorano la comprensione dei dati.
 Automazione delle funzioni di analisi finanziaria, riducendo tempi e risorse necessari per l'analisi manuale.
 
-# Dataset 
+## Dataset 
 Il dataset rappresenta le transazioni finanziarie registrate nel trading di azioni effettuate da Bob. Le colonne presenti nel foglio includono:
 
 - TradeID
@@ -39,8 +41,10 @@ Il foglio di calcolo è stato riorganizzato in quattro schede principali, ciascu
   - **Stile:** Intestazione Comic Sans MS (12pt, colore blu).
   - **Contenuto:** Tabella di contingenza per la distribuzione del numero di trade per regione e calcolo delle probabilità associate a eventi specifici.
 
-# Conclusione
+## Conclusione
 Questo progetto trasforma i dati finanziari in un potente strumento decisionale per FinTrack Solutions. Grazie a una struttura di facile lettura e a funzioni avanzate come tabelle pivot, analisi del profitto e distribuzioni probabilistiche, il cliente potrà monitorare le sue performance finanziarie e ottimizzare le sue operazioni di trading in modo efficace e strategico.
 
-# Contributi
-Questo progetto rappresenta un passo avanti nell'analisi delle operazioni di trading, migliorando la capacità di FinTrack Solutions di offrire strumenti efficaci ai propri clienti. Contributi e feedback sono benvenuti!
+## Contributi
+Questo progetto rappresenta un passo avanti nell'analisi delle operazioni di trading, migliorando la capacità di FinTrack Solutions di offrire strumenti efficaci ai propri clienti. 
+
+Contributi e feedback sono benvenuti!
