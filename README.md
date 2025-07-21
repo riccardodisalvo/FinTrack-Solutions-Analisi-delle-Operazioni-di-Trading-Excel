@@ -12,7 +12,7 @@ Miglioramento della gestione e analisi delle operazioni di trading.
 Implementazione di strumenti di visualizzazione interattivi che migliorano la comprensione dei dati.
 Automazione delle funzioni di analisi finanziaria, riducendo tempi e risorse necessari per l'analisi manuale.
 
-# Dataset Fornito
+# Dataset 
 Il dataset rappresenta le transazioni finanziarie registrate nel trading di azioni effettuate da Bob. Le colonne presenti nel foglio includono:
 
 - TradeID
